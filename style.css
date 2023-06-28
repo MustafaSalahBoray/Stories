@@ -1,0 +1,18 @@
+nav{
+	background-color: aqua;
+}
+.navbar-brand{
+	font-family: 'Dancing script',cursive;
+	font-size: 20px;
+}
+.navbar-nav li a {
+	font-family: 'Dancing script',cursive;
+	font-size: 20px;
+}
+.Ft{ 
+	margin-top: 10px;
+		font-family: 'Dancing script',cursive;
+	font-size: 32px;
+	
+}
+
